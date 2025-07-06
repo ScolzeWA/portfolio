@@ -7,7 +7,7 @@
 
 - 👨‍🎓 I’m **21 years old**, currently in **4th year**, studying **Information Technology - Networks Track**
 - 📍 Based in **Cairo, Egypt**
-- 🧠 Passionate about **Cybersecurity, Ethical Hacking, and Network Infrastructure**
+- 🧠 Passionate about **Cybersecurity, System Administration, and Network Infrastructure**
 - 🌱 Always learning more about **Linux, Firewalls, Penetration Testing, and Server Management**
 - 🔒 I believe in: _"Secure by design, defend by strategy."_
 
@@ -34,8 +34,8 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: youremail@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: abdoatef267@gmail.com
+- 💼 LinkedIn: [Abdelrhman Atef](https://www.linkedin.com/in/abdoatef267/)
 
 ---
 
